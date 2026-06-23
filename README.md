@@ -1,3 +1,4 @@
 # Shopper_Spectrum_Project
 Shopper Spectrum is a Python-based retail analytics project that analyzes customer purchasing behavior and sales trends using an online retail dataset with data cleaning, visualization, and insights.
-Dataset Link: https://https://drive.google.com/file/d/1rzRwxm_CJxcRzfoo9Ix37A2JTlMummY-/view
+Dataset Link: 
+https://drive.google.com/file/d/1rzRwxm_CJxcRzfoo9Ix37A2JTlMummY-/view
